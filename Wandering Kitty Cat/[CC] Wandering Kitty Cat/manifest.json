@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Wandering Kitty Cat",
+  "Author": "Obamoose",
+  "Version": "1.0.0",
+  "Description": "Adds a wandering cat to town.",
+  "UniqueID": "Obamoose.KittyCatCC",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.CustomCompanions",
+    "MinimumVersion": "1.4.3"
+  }
+}
