@@ -3,7 +3,7 @@
 
 	"Changes": [
 
-{
+	{
 		"LogName": "Adds Kitty Cat on tile",
 		"Action": "EditMap",
 		"Target": "Maps/Town",
@@ -21,7 +21,8 @@
 			},
 		"Update": "OnLocationChange"
 	},
-		{
+	
+	{
 		"LogName": "No Kitty Cat during bad weather",
 		"Action": "EditMap",
 		"Target": "Maps/Town",
