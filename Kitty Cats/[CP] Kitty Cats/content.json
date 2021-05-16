@@ -31,7 +31,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "true" },					
+			"AllowCatReplacements": "true",
 			"Weather": "Sun, Wind",
 			},
 		"Update": "OnLocationChange"
@@ -53,7 +53,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "true" },					
+			"AllowCatReplacements": "true",
 			"Weather: |contains=Sun,Wind": false,			
 			},
 		"Update": "OnLocationChange"
@@ -73,7 +73,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "true" },					
+			"AllowCatReplacements": "true",
 			"Weather: |contains=Sun,Wind": false,		
 			},
 		"Update": "OnLocationChange"
@@ -93,7 +93,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "true" },					
+			"AllowCatReplacements": "true",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
@@ -113,7 +113,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "true" },					
+			"AllowCatReplacements": "true",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
@@ -133,7 +133,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "true" },					
+			"AllowCatReplacements": "true",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
@@ -153,7 +153,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "true" },					
+			"AllowCatReplacements": "true",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
@@ -177,7 +177,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "false" },					
+			"AllowCatReplacements": "false",
 			"Weather": "Sun, Wind",
 			},
 		"Update": "OnLocationChange"
@@ -199,7 +199,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "false" },					
+			"AllowCatReplacements": "false",
 			"Weather: |contains=Sun,Wind": false,			
 			},
 		"Update": "OnLocationChange"
@@ -219,7 +219,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "false" },					
+			"AllowCatReplacements": "false",
 			"Weather: |contains=Sun,Wind": false,		
 			},
 		"Update": "OnLocationChange"
@@ -239,7 +239,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "false" },					
+			"AllowCatReplacements": "false",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
@@ -259,7 +259,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "false" },					
+			"AllowCatReplacements": "false",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
@@ -279,7 +279,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "false" },					
+			"AllowCatReplacements": "false",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
@@ -299,7 +299,7 @@
             },
          ],
 		"When": {
-			"When": { "AllowCatReplacements": "false" },					
+			"AllowCatReplacements": "false",
 			"Weather: |contains=Sun,Wind": false,	
 			},
 		"Update": "OnLocationChange"
