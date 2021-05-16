@@ -42,7 +42,7 @@
 	{
 		"LogName": "Adds VanillaOrange to museum during bad weather",
 		"Action": "EditMap",
-		"Target": "Maps/ArcheologyHouse",
+		"Target": "Maps/ArchaeologyHouse",
 		"MapTiles": [
             {
                "Position": { "X": 6, "Y": 11 },
@@ -62,7 +62,7 @@
 	{
 		"LogName": "Adds VanillaGrey to museum during bad weather",
 		"Action": "EditMap",
-		"Target": "Maps/ArcheologyHouse",
+		"Target": "Maps/ArchaeologyHouse",
 		"MapTiles": [
             {
                "Position": { "X": 11, "Y": 10 },
@@ -82,7 +82,7 @@
 	{
 		"LogName": "Adds VanillaYellow to museum during bad weather",
 		"Action": "EditMap",
-		"Target": "Maps/ArcheologyHouse",
+		"Target": "Maps/ArchaeologyHouse",
 		"MapTiles": [
             {
                "Position": { "X": 22, "Y": 17 },
@@ -188,7 +188,7 @@
 	{
 		"LogName": "Adds KittyOrange to museum during bad weather",
 		"Action": "EditMap",
-		"Target": "Maps/ArcheologyHouse",
+		"Target": "Maps/ArchaeologyHouse",
 		"MapTiles": [
             {
                "Position": { "X": 6, "Y": 11 },
@@ -208,7 +208,7 @@
 	{
 		"LogName": "Adds KittyGrey to museum during bad weather",
 		"Action": "EditMap",
-		"Target": "Maps/ArcheologyHouse",
+		"Target": "Maps/ArchaeologyHouse",
 		"MapTiles": [
             {
                "Position": { "X": 11, "Y": 10 },
@@ -228,7 +228,7 @@
 	{
 		"LogName": "Adds KittyYellow to museum during bad weather",
 		"Action": "EditMap",
-		"Target": "Maps/ArcheologyHouse",
+		"Target": "Maps/ArchaeologyHouse",
 		"MapTiles": [
             {
                "Position": { "X": 22, "Y": 17 },
