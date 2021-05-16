@@ -14,5 +14,9 @@
 		"UniqueID": "PeacefulEnd.CustomCompanions",
 		"IsRequired": true,
 	   },
+	   {
+		"UniqueID": "FlashShifter.StardewValleyExpandedCP",
+		"IsRequired": false,
+	   },	   
    ]
 }
