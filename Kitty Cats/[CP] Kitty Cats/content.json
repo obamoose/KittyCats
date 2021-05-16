@@ -305,5 +305,50 @@
 		"Update": "OnLocationChange"
 	},
 
+//SVE AndyCat
+	{
+		"LogName": "Adds KittyAndy to Andy's Farm",
+		"Action": "EditMap",
+		"Target": "Maps/Forest",
+		"MapTiles": [
+            {
+               "Position": {
+					"X": "{{Random: 68, 82, 76 |key=tile coordinate}}",
+					"Y": "{{Random: 64, 68, 60 |key=tile coordinate}}"
+            },
+               "Layer": "Back",
+               "SetProperties": {
+                  "CustomCompanions": "Spawn 1 Obamoose.KittyCatCC.KittyAndy"
+               },
+            },
+         ],
+		"When": {
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+			"Weather": "Sun, Wind",
+			},
+		"Update": "OnLocationChange"
+	},
+
+	//Bad Weather
+	{
+		"LogName": "Adds KittyAndy to Andy's House with bad weather",
+		"Action": "EditMap",
+		"Target": "Maps/Custom_AndyHouse",
+		"MapTiles": [
+            {
+               "Position": { "X": 16, "Y": 16 },
+               "Layer": "Back",
+               "SetProperties": {
+                  "CustomCompanions": "Spawn 1 Obamoose.KittyCatCC.KittyAndy"
+               },
+            },
+         ],
+		"When": {
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+			"Weather: |contains=Sun,Wind": false,	
+			},
+		"Update": "OnLocationChange"
+	},
+
 	],
 }
