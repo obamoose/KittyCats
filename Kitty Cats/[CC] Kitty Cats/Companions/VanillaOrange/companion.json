@@ -1,5 +1,5 @@
 {
-  "Name": "Kitty",
+  "Name": "VanilaOrange",
   "Type": "Walking", // Can either be Walking or Flying | Walking has collision with objects, flying has no collision
   "EnableFarmerCollision": true, // Optional parameter, determines if the companion will collide with the farmer | NOTE: Only usable with map-based spawns, does nothing for follower-based spawns (e.g. with rings)
   "EnableShadow": true, // Optional parameter, default false
@@ -20,7 +20,7 @@
 
   "FrameSizeWidth": 32, // Width of each frame / tile in pixels
   "FrameSizeHeight": 32, // Height of each frame / tile in pixels
-  "TileSheetPath": "Animals\\Cat2", // Optional parameter, but needed if creating a companion with an existing in-game sprite (e.g. Animals\\Rabbit)
+  "TileSheetPath": "Animals\\Cat", // Optional parameter, but needed if creating a companion with an existing in-game sprite (e.g. Animals\\Rabbit)
 
   // This plays when the companion travels upwards
   "UpAnimation": {
@@ -101,8 +101,8 @@
   {
     "SoundName": "cat",
     "WhenToPlay": "Idle",
-    "TimeBetweenSound": 10000,
+    "TimeBetweenSound": 5000,
     "ChanceOfPlaying": 0.3
   }
-]  
+] 
 }

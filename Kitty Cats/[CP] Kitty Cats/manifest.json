@@ -1,8 +1,8 @@
 {
-	"Name": "Wandering Kitty Cat",
+	"Name": "Kitty Cats",
 	"Author": "Obamoose",
-	"Version": "1.0.0",
-	"Description": "Adds CP Data for Wandering Kitty Cat.",
+	"Version": "1.1.0",
+	"Description": "Adds CP Data for Kitty Cats.",
 	"UniqueID": "Obamoose.KittyCat",
 	"MinimumApiVersion": "3.0.0",
 	"UpdateKeys": [ "Nexus:7998" ],

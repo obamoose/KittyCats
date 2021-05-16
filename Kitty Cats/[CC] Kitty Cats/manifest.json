@@ -1,8 +1,8 @@
 ﻿{
-  "Name": "Wandering Kitty Cat",
+  "Name": "Kitty Cats",
   "Author": "Obamoose",
-  "Version": "1.0.0",
-  "Description": "Adds a wandering cat to town.",
+  "Version": "1.1.0",
+  "Description": "Adds kitty cats to the game.",
   "UniqueID": "Obamoose.KittyCatCC",
   "UpdateKeys": [],
   "Dependencies": [],
