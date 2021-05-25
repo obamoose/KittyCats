@@ -1,0 +1,23 @@
+{
+	"Format": "1.22.0",
+
+	"Changes": [
+
+		{
+			"LogName": "Adds Pufferchick in Town",
+			"Action": "EditMap",
+			"Target": "Maps/SeedShop",
+			"MapTiles": [
+				{
+					"Position": { "X": 6, "Y": 4 },
+					"Layer": "Back",
+					"SetProperties": {
+						"CustomCompanions": "Spawn 1 Obamoose.PufferchickCC.Pufferchick"
+					},
+				},
+			],
+			"Update": "OnLocationChange"
+		},
+
+	],
+}
