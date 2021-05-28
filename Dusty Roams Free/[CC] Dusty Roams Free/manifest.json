@@ -1,0 +1,13 @@
+﻿{
+    "Name": "[CC] Pufferchick",
+    "Author": "Obamoose",
+    "Version": "1.0.0",
+    "Description": "Adds Pufferchick to the game.",
+    "UniqueID": "Obamoose.PufferchickCC",
+    "UpdateKeys": [],
+    "Dependencies": [],
+    "ContentPackFor": {
+        "UniqueID": "PeacefulEnd.CustomCompanions",
+    "MinimumVersion": "1.4.3"
+  }
+}
